@@ -234,8 +234,6 @@ Copyright (c) 2026 Devilquest — [MIT License](LICENSE)
 
 ---
 
-<br>
-
 ## :heart: Donations
 **If you enjoy this project, any support is greatly appreciated!**  
 
